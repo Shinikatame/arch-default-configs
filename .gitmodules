@@ -1,3 +1,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/Shinikatame/dotfiles.git
+[submodule "vscodium-profiles"]
+	path = vscodium-profiles
+	url = https://github.com/Shinikatame/vscodium-profiles.git
