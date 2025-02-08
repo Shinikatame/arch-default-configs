@@ -1,9 +1,12 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/Shinikatame/dotfiles.git
+    branch = main
 [submodule "vscodium-profiles"]
 	path = vscodium-profiles
 	url = https://github.com/Shinikatame/vscodium-profiles.git
+    branch = main
 [submodule "arch-apps"]
 	path = arch-apps
 	url = https://github.com/Shinikatame/arch-apps.git
+    branch = main
