@@ -4,3 +4,6 @@
 [submodule "vscodium-profiles"]
 	path = vscodium-profiles
 	url = https://github.com/Shinikatame/vscodium-profiles.git
+[submodule "arch-apps"]
+	path = arch-apps
+	url = https://github.com/Shinikatame/arch-apps.git
